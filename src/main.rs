@@ -1,3 +1,7 @@
+use std::collections::HashMap; // Example of using an external crate
+
 fn main() {
-    println!("Hello, world!");
+    println!("Starting Vortex engine...");
+
+
 }
